@@ -88,5 +88,4 @@ pip install -r requirements.txt
 
 
 
-<img width="959" height="410" alt="image" src="https://github.com/user-attachments/assets/89439f55-a1a1-441e-8cce-62c0f5aa6af4" />
 
